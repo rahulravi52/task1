@@ -2,9 +2,12 @@
 
 Welcome to my world
 
-Skils
+Skills
 Linux
 AWS
+
+GIT
+Jenkins
 
 VMware
 Thank You
